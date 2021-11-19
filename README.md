@@ -1,2 +1,2 @@
-# temp-node
-This repository contains the fundamental codes for Node.js.
+# Node.JS
+This repository contains the fundamental codes to learn Node.js.
