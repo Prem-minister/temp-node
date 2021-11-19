@@ -1,2 +1,2 @@
 # temp-node
-This repository will contains the fundamental codes for the Node.js.
+This repository contains the fundamental codes for Node.js.
